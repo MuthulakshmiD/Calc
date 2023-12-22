@@ -127,7 +127,11 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![Alt text](Anitha/Calcapp/static/calculator.png)
+
+![Alt text](Anitha/Calcapp/static/calc1.png)
+
+![Alt text](Anitha/Calcapp/static/calc2.png)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
