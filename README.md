@@ -71,20 +71,20 @@ Publish the website in the given URL.
             <input type="button" onkeydown="op(event)" onclick="f('5')" value="5">
             <input type="button" onkeydown="op(event)" onclick="f('6')" value="6">
             <input type="button" onkeydown="op(event)" onclick="f('*')" value="x">
-            <input type="button" onkeydown="op(event)" onclick="f('^0.5')" value="^0.5"><br><br>
+            <input type="button" onkeydown="op(event)" onclick="f('%')" value="%"><br><br>
     
             <input type="button" onkeydown="op(event)" onclick="f('1')" value="1">
             <input type="button" onkeydown="op(event)" onclick="f('2')" value="2">
             <input type="button" onkeydown="op(event)" onclick="f('3')" value="3">
             <input type="button" onkeydown="op(event)" onclick="f('-')" value="-">
-            <input type="button" onkeydown="op(event)" onclick="f('/')" value="%"><br><br>
+            <input type="button" onkeydown="op(event)" onclick="f('/')" value="/"><br><br>
         
             <input type="button" onkeydown="op(event)" onclick="f('0')" value="0">
             <input type="button" onkeydown="op(event)" onclick="f('.')"
                 value=".">
             
             <input type="button" onkeydown="op(event)" onclick="f('+')" value="+">
-            <input type="button" onclick="solve()" value="=" style="color: blue; width: 150px;font-weight:bolder;">
+            <input type="button" onclick="solve()" value="=" style="color: blue; width: 60px; height: 60px;;font-weight:bolder;">
         </center>
         </div>
 </body>
@@ -123,13 +123,11 @@ Publish the website in the given URL.
 </script>
 
 </html>
-
-
 ```
 
 ## OUTPUT:
 
-![Alt text](calc.png)
+![Alt text](Anitha/Calcapp/static/calculator.png)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
